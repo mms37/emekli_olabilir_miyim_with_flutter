@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Bu kodda normal şartlarda kadın ve erkek için ayrı şartlarda ne zaman emekli olabileceğini hesaplıyor. 
+Cinsiyet,yaş,çalışma yılı,prim gün sayısı gibi farklı parametreleri değerlendirip , ne zaman emekli olunabilir onu hesaplamaktadır 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
